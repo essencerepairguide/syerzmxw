@@ -1,0 +1,23 @@
+{
+  "repo": "ollama-local-ai-runtime-professional-complete-setup-guide",
+  "product": "Ollama Local AI Runtime Pro Complete Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "ollama-local-ai-pro",
+    "ollama-local-ai",
+    "ollama-local-pro",
+    "how-to-install-ollama-local-ai",
+    "how-to-setup-ollama-local-ai",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "ollama-ai"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Ollama Local AI Runtime Pro Complete Setup Guide"
+}
